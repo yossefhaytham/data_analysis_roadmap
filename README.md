@@ -32,7 +32,6 @@ This section covers the technical tools and skills required for a Data Analyst. 
 
 If you prefer not to install PostgreSQL and pgAdmin on your device, you can practice SQL directly in the browser using DataCamp's **Associate Data Analyst in SQL** track. It includes PostgreSQL-specific courses, and you can follow the YouTube resources above alongside it.
 
-**Note:** The first chapter of each DataCamp course is free, but the full track requires a paid subscription.
 
 ### SQL: Database Systems Comparison
 
