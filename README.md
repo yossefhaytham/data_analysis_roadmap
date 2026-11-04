@@ -4,7 +4,7 @@ A structured learning roadmap to become a Data Analyst, starting from programmin
 
 ---
 
-## 1. Original Roadmap
+## 1.Roadmap
 
 The following diagram is the original roadmap used as the main reference for this learning path.
 
